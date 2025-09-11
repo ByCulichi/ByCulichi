@@ -1,36 +1,36 @@
-# 👋 Hola, soy Christian Velasco
+# 👋 Hola, soy Christian [Apellido]
 
 **Desarrollador Web Jr. | Cloud Enthusiast | AWS Practitioner**
 
-Soy estudiante de desarrollo de software con experiencia en **HTML, CSS, JavaScript, Git/GitHub** y conocimientos en **cloud computing con AWS**. Actualmente trabajo en TATA y busco oportunidades profesionales como **Desarrollador Web Jr.**, con disponibilidad total y modalidad híbrida.
+Soy estudiante de desarrollo de software con experiencia en **HTML, CSS, JavaScript, Git/GitHub** y conocimientos en **cloud computing con AWS**. Actualmente trabajo en TATA y busco oportunidades profesionales como **Desarrollador Web Jr.**, con disponibilidad total y modalidad remota o híbrida.
 
 ---
 
 ## 💻 Habilidades Técnicas
 
 ### Lenguajes y Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
 
 ### Backend y Bases de Datos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=for-the-badge&logo=mongodb)
 
 ### DevOps y Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-ffffff?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github)
 
 ---
 
 ## 🌐 Portafolio
 
-Aún estoy construyendo mi portafolio profesional en la nube. Puedes revisar mis proyectos en GitHub mientras tanto:
+Mi portafolio ya está listo y disponible para revisión:
 
-[Mi portafolio en la nube](#) <!-- -->
+[Ver mi portafolio](#) <!-- Reemplaza # con tu link de AWS -->
 
 ---
 
@@ -45,7 +45,7 @@ Actualmente estoy desarrollando proyectos personales y del bootcamp de desarroll
 
 ## 📌 Disponibilidad
 
-- **Modalidad:** Híbrida  
+- **Modalidad:** Remota o híbrida  
 - **Disponibilidad:** Total  
 - Interés en proyectos de **desarrollo web** y **cloud computing**
 
@@ -54,6 +54,5 @@ Actualmente estoy desarrollando proyectos personales y del bootcamp de desarroll
 ## 📫 Contacto
 
 - GitHub: [SoyCulichi](https://github.com/SoyCulichi)  
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/christian-armando-velasco-estrada-a24590382) 
-- Email: [Contacto](culichi2603@gmail.com)
-
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-armando-velasco-estrada-a24590382) 
+- Email: [culichi26@gmail.com](#)
