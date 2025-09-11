@@ -1,10 +1,11 @@
-# Christian [Apellido] - Desarrollador Web Jr.
+# Christian Velasco - Desarrollador Web Jr.
 
 Soy estudiante de desarrollo de software con experiencia en Git, GitHub, HTML, CSS, JavaScript y conocimientos en tecnologías de la nube, especialmente AWS. Actualmente trabajo en TATA y busco oportunidades como Desarrollador Web Jr., con disponibilidad total y modalidad híbrida.
 
 ## Habilidades
 
-- **Lenguajes y tecnologías:** HTML, CSS, JavaScript, Node.js, Git, GitHub  
+- **Lenguajes y tecnologías:** HTML, CSS, JavaScript, Node.js, Git, GitHub
+- **Bases de datos y backend:** MySQL, MongoDB, APIs REST  
 - **Cloud:** AWS (instancias EC2, S3, RDS, Lambda)  
 - **Herramientas y metodologías:** Docker, n8n, desarrollo ágil, control de versiones, GitHub Actions  
 
