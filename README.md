@@ -33,7 +33,7 @@ I'm a **Software Development student** and **Junior Web Developer** passionate a
 
 ## 📂 Featured Projects  
 
-🔢 **[CalculadoraCulichi](https://github.com/SoyCulichi/CalculadoraCulichi)**  
+🔢 **[CalculatorCulichi](https://github.com/SoyCulichi/CalculadoraCulichi)**  
 _Basic calculator project built with JavaScript, demonstrating logic and version control._  
 
 ✅ **[Todo-App](https://github.com/SoyCulichi/Todo-App)**  
