@@ -1,5 +1,6 @@
 #  Greetings, I AM Christian Velasco ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+
 ### 🚀 Junior Web Developer | AWS Practitioner  
 
 
@@ -55,7 +56,9 @@ _Personal portfolio project showcasing my skills and work._
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christian-armando-velasco-estrada-a2459032)  
 - 📧 Email: culichi2603@gmail.com  
-- 🌍 [GitHub](https://github.com/SoyCulichi)  
+- 🌍 [GitHub](https://github.com/SoyCulichi)
+
+- ![Hire Me](https://img.shields.io/badge/Hire%20Me-Remote%20or%20Hybrid-blue?style=for-the-badge&logo=briefcase)
 
 ---
 ✨ _Thanks for visiting my profile! Feel free to connect and check out my projects._  
