@@ -25,7 +25,7 @@ I am a software development student with experience in **HTML, CSS, JavaScript, 
 Here you can find my personal projects and bootcamp projects, all with **complete documentation, installation instructions, and usage examples**.  
 The projects demonstrate my skills in **frontend and cloud deployment using AWS**.
 
-![calculator-gif](https://media.giphy.com/media/3o7TKP2Wf4K0DML8pK/giphy.gif)
+[MI Portafolio](http://devculichi.s3-website.us-east-2.amazonaws.com)
 
 ---
 
