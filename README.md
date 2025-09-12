@@ -59,7 +59,3 @@ _Personal portfolio project showcasing my skills and work._
 
 ---
 ✨ _Thanks for visiting my profile! Feel free to connect and check out my projects._  
-
-## 📫 Contact
-
-- LinkedIn: [Christian Velasco](https://www.linkedin.com/in/christian-armando-velasco-estrada-a24590382)
