@@ -1,9 +1,9 @@
-![Banner](https://i.imgur.com/HJLnWo1.png)
+![Banner](https://i.imgur.com/xuwtFHo.png)
 
 #  Greetings, I AM Christian Velasco ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 
-### 🚀 Junior Web Developer | AWS Practitioner  
+### 🚀  “Frontend Developer in Progress | React & AWS Practitioner | Building Scalable Web Apps”
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoyCulichi&label=Profile%20views&color=0e75b6&style=flat)
@@ -13,7 +13,8 @@
 
 ## 👨‍💻 About Me  
 
-I'm a **Software Development student** and **Junior Web Developer** passionate about creating efficient and scalable web solutions.  
+“I’m a Software Development student and aspiring Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and Git. Currently exploring React and cloud deployment with AWS. I enjoy building efficient, user-friendly applications and I’m actively developing my portfolio to secure a Junior Developer role by 2026.”
+
 - 🔭 Currently working at **TATA Consultancy Services**.  
 - ☁️ AWS Practitioner with experience in cloud deployment.  
 - 🌎 Open to **remote or hybrid opportunities**.  
