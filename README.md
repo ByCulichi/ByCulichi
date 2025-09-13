@@ -42,7 +42,10 @@
 
 _Basic calculator project built with JavaScript, demonstrating logic and version control._  
 
-✅ **[Todo-App](https://github.com/SoyCulichi/Todo-App)**  
+## ✅ Todo-App
+
+<img src="https://github.com/SoyCulichi/Todo-App-Culichi/blob/main/Todoapp.gif" width="250px">
+
 _A simple interactive task manager built with HTML, CSS, and JavaScript._  
 
 🌐 **[Portfolio](https://github.com/SoyCulichi/Portfolio)**  
