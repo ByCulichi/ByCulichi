@@ -36,12 +36,9 @@
 ---
 
 ## 📂 Featured Projects  
+## 🧮 Calculator Culichi 
 
-## 🧮 Calculator Culichi (Demo)
-
-<img src="https://github.com/SoyCulichi/Calculator-Culichi/blob/main/Animation.gif" width="300px">
-
-👉 <a href="https://github.com/SoyCulichi/Calculator-Culichi">See Proyect</a>
+<img src="https://github.com/SoyCulichi/Calculator-Culichi/blob/main/Animation.gif" width="250px">
 
 _Basic calculator project built with JavaScript, demonstrating logic and version control._  
 
@@ -66,6 +63,8 @@ _Personal portfolio project showcasing my skills and work._
 - 💼 [LinkedIn](https://www.linkedin.com/in/christian-armando-velasco-estrada-a2459032)  
 - 📧 Email: culichi2603@gmail.com  
 - 🌍 [GitHub](https://github.com/SoyCulichi)
+- 🌐 Check out my portfolio: [SoyCulichi Portfolio](http://devculichi.s3-website.us-east-2.amazonaws.com)
+
 
 - ![Hire Me](https://img.shields.io/badge/Hire%20Me-Remote%20or%20Hybrid-blue?style=for-the-badge&logo=briefcase)
 - ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-💼-brightgreen)
