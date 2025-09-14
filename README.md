@@ -48,7 +48,9 @@ _Basic calculator project built with JavaScript, demonstrating logic and version
 
 _A simple interactive task manager built with HTML, CSS, and JavaScript._  
 
-🌐 **[Portfolio](https://github.com/SoyCulichi/Portfolio)**  
+## 🌐 Portfolio
+
+<img src="https://github.com/SoyCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="250px">
 _Personal portfolio project showcasing my skills and work._  
 
 ---
