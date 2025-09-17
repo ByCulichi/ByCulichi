@@ -36,7 +36,7 @@
 ---
 
 ## 📂 Featured Projects  
-## 🧮 Calculator Culichi 
+## 🧮 Calculator-Culichi 
 
 <img src="https://github.com/SoyCulichi/Calculator-Culichi/blob/main/Animation.gif" width="250px">
 
@@ -53,7 +53,7 @@ _A simple interactive task manager built with HTML, CSS, and JavaScript_
 <img src="https://github.com/SoyCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="250px">
 _Personal portfolio project showcasing my skills and work._  
 
-## Weather APP
+## Weather-APP
 
 <img src="https://github.com/SoyCulichi/WeatherApp-Culichi/blob/main/Weatherapp.gif" width="250px">
 
@@ -72,9 +72,9 @@ _Proyect working with api remotly_
 
 ## 📫 Contact  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/christian-armando-velasco-estrada-a2459032)  
-- 📧 Email: culichi2603@gmail.com  
-- 🌍 [GitHub](https://github.com/SoyCulichi)
+- 💼 [LinkedIn](https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en)  
+- 📧 Email:mailoto:culichi2603@gmail.com 
+- 🌍 [GitHub]([https://github.com/SoyCulichi](https://github.com/SoyCulichi/SoyCulichi))
 - 🌐 Check out my portfolio: [SoyCulichi Portfolio](http://devculichi.s3-website.us-east-2.amazonaws.com)
 
 
