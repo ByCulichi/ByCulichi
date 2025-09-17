@@ -46,7 +46,7 @@ _Basic calculator project built with JavaScript, demonstrating logic and version
 
 <img src="https://github.com/SoyCulichi/Todo-App-Culichi/blob/main/Todoapp.gif" width="250px">
 
-_A simple interactive task manager built with HTML, CSS, and JavaScript._  
+_A simple interactive task manager built with HTML, CSS, and JavaScript_  
 
 ## 🌐 Portfolio
 
@@ -83,4 +83,5 @@ _Proyect working with api remotly_
 
 
 ---
-✨ _Thanks for visiting my profile! Feel free to connect and check out my projects._  
+
+✨ _Thanks for visiting my profile! Feel free to connect and check out my projects_  
