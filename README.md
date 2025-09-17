@@ -73,14 +73,12 @@ _Proyect working with api remotly_
 ## 📫 Contact  
 
 - 💼 [LinkedIn](https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en)  
-- 📧 Email:mailoto:culichi2603@gmail.com 
-- 🌍 [GitHub]([https://github.com/SoyCulichi](https://github.com/SoyCulichi/SoyCulichi))
-- 🌐 Check out my portfolio: [SoyCulichi Portfolio](http://devculichi.s3-website.us-east-2.amazonaws.com)
+- 📧 Email: culichi2603@gmail.com 
+- 🌍 [GitHub](https://github.com/SoyCulichi](https://github.com/SoyCulichi/SoyCulichi))
 
 
 - ![Hire Me](https://img.shields.io/badge/Hire%20Me-Remote%20or%20Hybrid-blue?style=for-the-badge&logo=briefcase)
 - ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-💼-brightgreen)
-
 
 ---
 
