@@ -53,6 +53,13 @@ _A simple interactive task manager built with HTML, CSS, and JavaScript._
 <img src="https://github.com/SoyCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="250px">
 _Personal portfolio project showcasing my skills and work._  
 
+## Weather APP
+
+<img src="https://github.com/SoyCulichi/WeatherApp-Culichi/blob/main/Weatherapp.gif" width="250px">
+
+_Proyect working with api remotly_  
+
+
 ---
 
 ## 📊 GitHub Stats  
