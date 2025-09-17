@@ -40,7 +40,7 @@
 
 <img src="https://github.com/SoyCulichi/Calculator-Culichi/blob/main/Animation.gif" width="250px">
 
-_Basic calculator project built with JavaScript, demonstrating logic and version control._  
+_Basic calculator project built with JavaScript, demonstrating logic and version control_  
 
 ## ✅ Todo-App
 
@@ -74,7 +74,7 @@ _Proyect working with api remotly_
 
 - 💼 [LinkedIn](https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en)  
 - 📧 Email: culichi2603@gmail.com 
-- 🌍 [GitHub](https://github.com/SoyCulichi](https://github.com/SoyCulichi/SoyCulichi))
+- 🌍 [GitHub](https://github.com/SoyCulichi)
 
 
 - ![Hire Me](https://img.shields.io/badge/Hire%20Me-Remote%20or%20Hybrid-blue?style=for-the-badge&logo=briefcase)
