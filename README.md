@@ -76,10 +76,6 @@ _Proyect working with api remotly_
 - 📧 Email: culichi2603@gmail.com 
 - 🌍 [GitHub](https://github.com/SoyCulichi)
 
-
-- ![Hire Me](https://img.shields.io/badge/Hire%20Me-Remote%20or%20Hybrid-blue?style=for-the-badge&logo=briefcase)
-- ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-💼-brightgreen)
-
 ---
 
 ✨ _Thanks for visiting my profile! Feel free to connect and check out my projects_  
