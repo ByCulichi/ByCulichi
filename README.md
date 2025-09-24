@@ -21,8 +21,6 @@ I’m Christian Velasco—a passionate Frontend Developer in progress, currently
 - 🌎 Open to remote and hybrid opportunities worldwide.
 - 🎯 My goal: Secure a Junior Developer role by 2026 while contributing to impactful projects.
 
-Let’s connect and build something awesome together! 🚀✨
-
 ---
 
 ## 🛠️ Tech Stack  
