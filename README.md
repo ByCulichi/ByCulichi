@@ -75,7 +75,7 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
   <a href="https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en">
     <img src="https://img.shields.io/badge/LinkedIn-Christian%20Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/ByCulichi/ByCulichi/blob/main/CV-ChristianVelasco.pdf" target="[_blank](https://drive.google.com/file/d/1ieN1Mwwa62KNdgYXmk5VDlpYOZbcLEvE/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1ieN1Mwwa62KNdgYXmk5VDlpYOZbcLEvE/view?usp=sharing" target="[_blank]">
     <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
