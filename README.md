@@ -77,4 +77,3 @@ Reach out via [LinkedIn](https://mx.linkedin.com/in/christian-armando-velasco-es
 
 ✨ **Thanks for stopping by!**  
 Your feedback and connection are always welcome. Check out my projects and let’s build the future of web together! 🚀🌎
-````
