@@ -34,11 +34,9 @@ Let’s connect and build something awesome together! 🚀✨
 ✨ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ✨ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ✨ ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-🌐 ![i18n](https://img.shields.io/badge/i18n-Internationalization-blue?style=for-the-badge)
 
 **Backend & Automation**  
 ⚡ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-⚡ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 🤖 ![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
 
 **Cloud & DevOps**  
