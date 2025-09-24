@@ -4,9 +4,9 @@
 
 ### 🚀 Frontend Developer in Progress | React & AWS Practitioner | Building Scalable Web Apps
 
-![Profile Views](https://komarev.com/ghpvc/?username=SoyCulichi&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/SoyCulichi?style=social)
-![GitHub stars](https://img.shields.io/github/stars/SoyCulichi?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=ByCulichi&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ByCulichi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ByCulichi?style=social)
 
 ---
 
