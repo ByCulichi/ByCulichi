@@ -17,8 +17,7 @@ I’m Christian Velasco—a passionate Frontend Developer in progress, currently
 - 🚀 Learning and building with **React**, **Tailwind CSS**, and **AWS** for cloud deployment.
 - ☁️ Exploring cloud platforms like **AWS** and **Google Cloud** for scalable solutions.
 - 💡 I believe in continuous learning and enjoy exploring new frameworks, languages, and best practices.
-- 🐍 Experimenting with **Python** and automation workflows.
-- 🌐 Implementing **i18n** (internationalization) for global-ready apps.
+- 🐍 Experimenting with **Python** and automation workflows with n8n.
 - 🌎 Open to remote and hybrid opportunities worldwide.
 - 🎯 My goal: Secure a Junior Developer role by 2026 while contributing to impactful projects.
 
