@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/xuwtFHo.png)
+![Banner](banner.png)
 
 # 👋 Hello! I'm Christian Velasco
 
