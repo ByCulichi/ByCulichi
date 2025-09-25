@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/xuwtFHo.png)
 
-# 👋 Hello! I'm Christian Velasco ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 👋 Hello! I'm Christian Velasco
 
 ### 🚀 Frontend Developer in Progress | React & AWS Practitioner | Building Scalable Web Apps
 
