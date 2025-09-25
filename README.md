@@ -48,12 +48,13 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 
 ## 📂 Featured Projects
 
-| Project                | Description                                         | Demo |
-|------------------------|-----------------------------------------------------|------|
-| **Calculator-Culichi** | Basic calculator in JS, logic and version control   | <img src="https://github.com/ByCulichi/Calculator-Culichi/blob/main/Animation.gif" width="120px"> |
-| **Todo-App**           | Task manager built with HTML, CSS, JS               | <img src="https://github.com/ByCulichi/Todo-App-Culichi/blob/main/Todoapp.gif" width="120px"> |
-| **Portfolio**          | Personal portfolio, skills & work                   | <img src="https://github.com/ByCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="120px"> |
-| **Weather-APP**        | Weather app using API                               | <img src="https://github.com/ByCulichi/WeatherApp-Culichi/blob/main/Weatherapp.gif" width="120px"> |
+| Project                  | Description                                                                                                                                   | Technologies Used                                       | Demo |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------|
+| **Calculator-Culichi**   | A simple yet effective calculator application implementing core arithmetic operations, built for practicing JavaScript logic and version control workflows. | JavaScript, HTML, CSS, Git                              | <img src="https://github.com/ByCulichi/Calculator-Culichi/blob/main/calculator.gif" width="120px"> |
+| **Todo-App-Culichi**     | An intuitive task management tool that lets users add, complete, and delete tasks, focusing on user experience and responsive UI design.               | JavaScript, HTML, CSS, Local Storage                    | <img src="https://github.com/ByCulichi/Todo-App-Culichi/blob/main/Todoapp.gif" width="120px"> |
+| **Portfolio-Culichi**    | My personal portfolio showcasing my skills, projects, and work experience through a clean and interactive interface.                                   | JavaScript, HTML, CSS, Responsive Design                | <img src="https://github.com/ByCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="120px"> |
+| **WeatherApp-Culichi**   | A weather application that fetches real-time weather data from a public API, displaying forecasts with a dynamic and user-friendly interface.          | JavaScript, HTML, CSS, REST API, Fetch API              | <img src="https://github.com/ByCulichi/WeatherApp-Culichi/blob/main/Weatherapp.gif" width="120px"> |
+
 
 > ⭐ Check each repository for technical details, documentation, and source code.
 
