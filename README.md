@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](bannergit.png)
 
 # 👋 Hello! I'm Christian Velasco
 
