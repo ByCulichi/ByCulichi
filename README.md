@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Christian Velasco
 
-### 🚀 Frontend Developer | AWS Cloud/IA Practitioner
+### 🚀 Frontend Developer | AWS Cloud/IA Practitioner | IA Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ByCulichi&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ByCulichi?style=social)
