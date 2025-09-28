@@ -15,11 +15,10 @@
 I'm Christian Velasco, a passionate Frontend Developer in progress, currently studying Software Development and working at Tata Consultancy Services. My main focus is building scalable, user-friendly web applications using modern technologies.
 
 - 🚀 Learning and building with **React**, **Tailwind CSS**, and **AWS** for cloud deployment.
-- ☁️ Exploring cloud platforms like **AWS** and **Google Cloud** for scalable solutions.
+- ☁️ Exploring cloud platforms like **AWS** for scalable solutions.
 - 💡 Enthusiastic about continuous learning and new technologies.
 - 🐍 Experimenting with **Python** and workflow automation using n8n.
 - 🌎 Open to remote and hybrid opportunities worldwide.
-- 🎯 My goal: Secure a Junior Developer role by 2026 and contribute to impactful projects.
 
 ---
 
