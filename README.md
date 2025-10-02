@@ -46,11 +46,10 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 
 | Project                  | Description                                                                                                                                   | Technologies Used                                       | Demo |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------|
-| **Calculator-Culichi**   | A simple yet effective calculator application implementing core arithmetic operations, built for practicing JavaScript logic and version control workflows. | JavaScript, HTML, CSS, Git                              | <img src="https://github.com/ByCulichi/Calculator-Culichi/blob/main/calculator.gif" width="120px"> |
-| **Todo-App-Culichi**     | An intuitive task management tool that lets users add, complete, and delete tasks, focusing on user experience and responsive UI design.               | JavaScript, HTML, CSS, Local Storage                    | <img src="https://github.com/ByCulichi/Todo-App-Culichi/blob/main/Todoapp.gif" width="120px"> |
-| **Portfolio-Culichi**    | My personal portfolio showcasing my skills, projects, and work experience through a clean and interactive interface.                                   | JavaScript, HTML, CSS, Responsive Design                | <img src="https://github.com/ByCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="120px"> |
-| **WeatherApp-Culichi**   | A weather application that fetches real-time weather data from a public API, displaying forecasts with a dynamic and user-friendly interface.          | JavaScript, HTML, CSS, REST API, Fetch API              | <img src="https://github.com/ByCulichi/WeatherApp-Culichi/blob/main/Weatherapp.gif" width="120px"> |
-
+| **Calculator-Culichi**   | A simple yet effective calculator application implementing core arithmetic operations, built for practicing JavaScript logic and version control workflows. | JavaScript, HTML, CSS, Git                              | <a href="https://github.com/ByCulichi/Calculator-Culichi" target="_blank"><img src="https://github.com/ByCulichi/Calculator-Culichi/blob/main/calculator.gif" width="120px" alt="Calculator Demo"/></a> |
+| **Todo-App-Culichi**     | An intuitive task management tool that lets users add, complete, and delete tasks, focusing on user experience and responsive UI design.               | JavaScript, HTML, CSS, Local Storage                    | <a href="https://github.com/ByCulichi/Todo-App-Culichi" target="_blank"><img src="https://github.com/ByCulichi/Todo-App-Culichi/blob/main/Todoapp.gif" width="120px" alt="Todo App Demo"/></a> |
+| **Portfolio-Culichi**    | My personal portfolio showcasing my skills, projects, and work experience through a clean and interactive interface.                                   | JavaScript, HTML, CSS, Responsive Design                | <a href="https://github.com/ByCulichi/Portfolio-Culichi" target="_blank"><img src="https://github.com/ByCulichi/Portfolio-Culichi/blob/main/Portfolio.gif" width="120px" alt="Portfolio Demo"/></a> |
+| **WeatherApp-Culichi**   | A weather application that fetches real-time weather data from a public API, displaying forecasts with a dynamic and user-friendly interface.          | JavaScript, HTML, CSS, REST API, Fetch API              | <a href="https://github.com/ByCulichi/WeatherApp-Culichi" target="_blank"><img src="https://github.com/ByCulichi/WeatherApp-Culichi/blob/main/Weatherapp.gif" width="120px" alt="Weather App Demo"/></a> |
 
 > ⭐ Check each repository for technical details, documentation, and source code.
 
@@ -58,26 +57,28 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 
 ## 📊 GitHub Stats
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByCulichi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByCulichi&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByCulichi&show_icons=true&theme=dark" alt="Christian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByCulichi&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:culichi2603@gmail.com">
+  <a href="mailto:culichi2603@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-culichi2603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en">
+  <a href="https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Christian%20Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1ieN1Mwwa62KNdgYXmk5VDlpYOZbcLEvE/view?usp=sharing" target="[_blank]">
+  <a href="https://drive.google.com/file/d/1ieN1Mwwa62KNdgYXmk5VDlpYOZbcLEvE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
 
 ---
 
-✨ **Thanks for stopping by!**  
-Your feedback and connection are always welcome. Check out my projects and let’s build the future of web together! 🚀🌎
+> ✨ **Thanks for stopping by!**  
+> Your feedback and connection are always welcome. Explore my projects and let’s build the future of web together! 🚀🌎
