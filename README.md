@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Christian Velasco
 
-### 🚀 Frontend Developer | AWS Cloud/IA Practitioner | IA Automation
+### 🚀 Frontend Developer | AWS & Azure Cloud Practitioner | AI Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ByCulichi&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ByCulichi?style=social)
@@ -14,10 +14,10 @@
 
 I'm Christian Velasco, a passionate Frontend Developer in progress, currently studying Software Development and working at Tata Consultancy Services. My main focus is building scalable, user-friendly web applications using modern technologies.
 
-- 🚀 Learning and building with **React**, **Tailwind CSS**, and **AWS** for cloud deployment.
-- ☁️ Exploring cloud platforms like **AWS** for scalable solutions.
+- 🚀 Learning and building with **React**, **Next.js**, **Vite**, **Tailwind CSS**, and cloud platforms for deployment.
+- ☁️ Exploring cloud platforms like **AWS** and **Microsoft Azure** for scalable solutions.
 - 💡 Enthusiastic about continuous learning and new technologies.
-- 🐍 Experimenting with **Python** and workflow automation using n8n.
+- 🐍 Experimenting with **Node.js** and **Python** for backend development and workflow automation.
 - 🌎 Open to remote and hybrid opportunities worldwide.
 
 ---
@@ -29,14 +29,18 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 🎨 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ⚡ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ⚛️ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+⚡ ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+⚡ ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 🌬️ ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend & Automation**  
+🟢 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 🤖 ![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
 
 **Cloud & DevOps**  
 ☁️ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+☁️ ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 🔧 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 🐙 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
