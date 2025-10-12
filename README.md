@@ -1,6 +1,6 @@
 ![Banner](bannergit.png)
 
-# 👋 Hello! I'm Christian Velasco
+#  Hello! I'm Christian Velasco
 
 ### 🚀 Frontend Developer | AWS & Azure Cloud Practitioner | AI Automation
 
