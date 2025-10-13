@@ -54,9 +54,9 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,nodejs,python,aws,docker" alt="Tech stack icons" />
 </p>
 
-- Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, Vite, Tailwind CSS
+- Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, Tailwind CSS
 - Tooling: ESLint, Prettier, Vitest/Jest, React Testing Library
-- DevOps: Docker, GitHub Actions, deployments to AWS/Azure/Static hosting
+- DevOps: Docker, GitHub Actions, deployments to AWS/Static hosting
 - Accessibility & SEO: Lighthouse, Core Web Vitals, ARIA
 
 **Frontend**  
