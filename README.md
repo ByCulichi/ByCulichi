@@ -41,8 +41,8 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 
 I build modern, accessible, and fast web applications with React/Next.js, optimized for SEO and designed to scale on AWS/Azure. I care about developer experience, performance (Core Web Vitals), and responsive design to ship production-ready products.
 
-- 🚀 Learning and building with **React**, **Next.js**, **Vite**, **Tailwind CSS**, and cloud platforms for deployment.
-- ☁️ Exploring cloud platforms like **AWS** and **Microsoft Azure** for scalable solutions.
+- 🚀 Learning and building with **React**, **Next.js**, **Tailwind CSS**, and cloud platforms for deployment.
+- ☁️ Exploring cloud platforms like **AWS** for scalable solutions.
 - 💡 Enthusiastic about continuous learning and new technologies.
 - 🐍 Experimenting with **Node.js** and **Python** for backend development and workflow automation.
 - 🌎 Open to remote and hybrid opportunities worldwide.
@@ -51,7 +51,7 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,git,github,nodejs,python,aws,azure,docker" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,nodejs,python,aws,azure,docker" alt="Tech stack icons" />
 </p>
 
 - Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, Vite, Tailwind CSS
