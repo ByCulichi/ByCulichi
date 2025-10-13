@@ -6,10 +6,10 @@
   <img src="./bannergit.png" alt="Christian Velasco — Frontend Developer" width="100%" />
 </p>
 
-<h1 align="center">Hello! I'm Christian Velasco</h1>
+<h1 align="center">Hello! 🫡 I'm Christian Velasco</h1>
 
 <p align="center">
-  🚀 Frontend Developer · Certified Cloud Practitioner (AWS | Azure) · AI Automation
+  🚀 Frontend Developer · ☁️ Certified Cloud Practitioner (AWS | Azure) · 🤖 AI Automation
   
 ![Profile Views](https://komarev.com/ghpvc/?username=ByCulichi&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ByCulichi?style=social)
@@ -25,7 +25,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
-## 👨‍💻 About Me & 🚀 Value Proposition
+## 👨‍💻 About Me &  Value Proposition
 
 I'm Christian Velasco, a passionate Frontend Developer in progress, currently studying Software Development and working at Tata Consultancy Services. My main focus is building scalable, user-friendly web applications using modern technologies.
 
