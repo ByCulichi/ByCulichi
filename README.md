@@ -51,7 +51,7 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,nodejs,python,aws,azure,docker" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,nodejs,python,aws,docker" alt="Tech stack icons" />
 </p>
 
 - Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, Vite, Tailwind CSS
