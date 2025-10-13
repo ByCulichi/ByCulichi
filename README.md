@@ -173,21 +173,48 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:culichi2603@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-culichi2603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  
+### 💼 Professional Networks
+  
+<p align="center">
   <a href="https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Christian%20Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
+  <a href="https://github.com/ByCulichi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+  </a>
+</p>
+
+### 📧 Contact Me
+
+<p align="center">
+  <a href="mailto:culichi2603@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+</p>
+
+### 📄 Resume
+
+<p align="center">
   <a href="https://drive.google.com/file/d/1ieN1Mwwa62KNdgYXmk5VDlpYOZbcLEvE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" height="30"/>
   </a>
+</p>
+
 </div>
 
 ---
 
-> ✨ **Thanks for stopping by!**  
-> Your feedback and connection are always welcome. Explore my projects and let’s build the future of web together! 🚀🌎
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+<p align="center">
+  <em>Your feedback and connection are always welcome.</em><br>
+  <em>Let's build the future of web together! 🚀🌎</em>
+</p>
+
+</div>
 
 
 
