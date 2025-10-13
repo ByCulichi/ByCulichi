@@ -25,9 +25,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & 🚀 Value Proposition
 
 I'm Christian Velasco, a passionate Frontend Developer in progress, currently studying Software Development and working at Tata Consultancy Services. My main focus is building scalable, user-friendly web applications using modern technologies.
+
+I build modern, accessible, and fast web applications with React/Next.js, optimized for SEO and designed to scale on AWS/Azure. I care about developer experience, performance (Core Web Vitals), and responsive design to ship production-ready products.
 
 - 🚀 Learning and building with **React**, **Next.js**, **Vite**, **Tailwind CSS**, and cloud platforms for deployment.
 - ☁️ Exploring cloud platforms like **AWS** and **Microsoft Azure** for scalable solutions.
