@@ -1,12 +1,21 @@
-![Banner](bannergit.png)
+<!-- Banner -->
 
-#  Hello! I'm Christian Velasco
+---
 
-### 🚀 Frontend Developer | AWS & Azure Cloud Practitioner | AI Automation
+<p align="center">
+  <img src="./bannergit.png" alt="Christian Velasco — Frontend Developer" width="100%" />
+</p>
 
+<h1 align="center">Hello! I'm Christian Velasco</h1>
+
+<p align="center">
+  🚀 Frontend Developer · Certified Cloud Practitioner (AWS | Azure) · AI Automation
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=ByCulichi&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ByCulichi?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ByCulichi?style=social)
+
+</p>
 
 ---
 
@@ -28,7 +37,15 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,git,github,nodejs,python,aws,azure,docker" alt="Tech stack icons" />
+</p>
+
+- Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, Vite, Tailwind CSS
+- Tooling: ESLint, Prettier, Vitest/Jest, React Testing Library
+- DevOps: Docker, GitHub Actions, deployments to AWS/Azure/Static hosting
+- Accessibility & SEO: Lighthouse, Core Web Vitals, ARIA
 
 **Frontend**  
 💻 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,6 +88,7 @@ I'm Christian Velasco, a passionate Frontend Developer in progress, currently st
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByCulichi&show_icons=true&theme=dark" alt="Christian's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByCulichi&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=ByCulichi&theme=dark" alt="Contribution streak" />
 </p>
 
 ---
