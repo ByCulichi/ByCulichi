@@ -9,7 +9,7 @@
 <h1 align="center">Hello! 🫡 I'm Christian Velasco</h1>
 
 <p align="center">
-  🚀 Frontend Developer · ☁️ Certified Cloud Practitioner (AWS | Azure) · 🤖 AI Automation
+  🚀 Frontend Developer · ☁️ Certified AWS Cloud Practitioner · 🤖 AI Automation
   
 ![Profile Views](https://komarev.com/ghpvc/?username=ByCulichi&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ByCulichi?style=social)
@@ -74,7 +74,6 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
 
 **Cloud & DevOps**  
 ☁️ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-☁️ ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 🔧 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 🐙 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
