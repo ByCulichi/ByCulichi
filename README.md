@@ -32,8 +32,6 @@
 - Boosting performance (Core Web Vitals) in Next.js/React
 - Integrating CI/CD pipelines with GitHub Actions
 - Automating workflows with Node.js/Python
-- Preparing for cloud certifications
-
 
 ## 👨‍💻 About Me &  Value Proposition
 
