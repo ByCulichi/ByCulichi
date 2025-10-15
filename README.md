@@ -1,5 +1,3 @@
-<!-- Banner -->
-
 ---
 
 <p align="center">
