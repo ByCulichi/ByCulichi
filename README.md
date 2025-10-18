@@ -31,6 +31,11 @@
 - Integrating CI/CD pipelines with GitHub Actions
 - Automating workflows with Node.js/Python
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+the+making;Always+learning+new+technologies;Passionate+about+coding" alt="Typing SVG" />
+</div>
+
+
 ## 👨‍💻 About Me &  Value Proposition
 
 I'm Christian Velasco, a passionate Frontend Developer in progress, currently studying Software Development and working at Tata Consultancy Services. My main focus is building scalable, user-friendly web applications using modern technologies.
