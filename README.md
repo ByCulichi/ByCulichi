@@ -177,13 +177,19 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
 
 <div align="center">
   <a href="mailto:culichi2603@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-culichi2603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://mx.linkedin.com/in/christian-armando-velasco-estrada-a24590382/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Christian%20Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1ieN1Mwwa62KNdgYXmk5VDlpYOZbcLEvE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
+  </a>
+  <a href="https://github.com/ByCulichi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://x.com/ByCulichi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
 
