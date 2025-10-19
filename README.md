@@ -188,7 +188,7 @@ I build modern, accessible, and fast web applications with React/Next.js, optimi
   <a href="https://github.com/ByCulichi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://x.com/ByCulichi" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/CVelasco11265" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
